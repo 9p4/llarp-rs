@@ -1,0 +1,3 @@
+[submodule "llarp"]
+	path = llarp
+	url = ./llarp
